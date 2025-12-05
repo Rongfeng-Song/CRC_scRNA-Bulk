@@ -1,0 +1,34 @@
+Figure 1 
+	GSE132465_GEO_processed_CRC_10X_raw_UMI_count_matrix.txt.gz
+	GSE132465_Tumor_filter.RDS
+	GSE132465_Tumor_filter_anno.RDS
+
+Figure 2
+	gene_list.xlsx
+	OKModel_risk.rdata
+	sc_IRGs.rdata
+
+Figure 3
+	cox_model.rdata
+	OKModel_risk.rdata
+
+Figure 4
+	OKModel_risk.rdata
+
+Figure 5
+	gsva_DDR_matrix.csv
+	gsva_go_degs.results.csv
+	gsva_go_matrix.csv
+	gsva_Hallmark_matrix.csv
+	gsva_kegg_degs.results.csv
+	gsva_kegg_matrix.csv
+	msi_risk.rdata
+	OKModel_risk.rdata
+	TMB_coad.rdata
+
+Figure 6
+	entire__tide.csv
+	estimate_risk.rdata
+	OKModel_risk.rdata
+	TCGA_estimate.rdata
+	TCGA_TIDE.csv
