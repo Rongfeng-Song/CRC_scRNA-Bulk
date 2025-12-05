@@ -1,3 +1,7 @@
+**Code availability**
+The code used in this study is publicly available at [https://github.com/Rongfeng-Song/CRC_scRNA-Bulk](https://github.com/Rongfeng-Song/CRC_scRNA-Bulk), and all datasets generated and/or analyzed during this study are available at [https://doi.org/10.5281/zenodo.17827349](https://doi.org/10.5281/zenodo.17827349).
+
+
 Figure 1 
 	GSE132465_GEO_processed_CRC_10X_raw_UMI_count_matrix.txt.gz
 	GSE132465_Tumor_filter.RDS
@@ -32,3 +36,4 @@ Figure 6
 	OKModel_risk.rdata
 	TCGA_estimate.rdata
 	TCGA_TIDE.csv
+
